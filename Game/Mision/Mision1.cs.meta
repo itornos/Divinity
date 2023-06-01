@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1a5384a8706ca5f4a9fe352027c0a852
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pipeEscenas: {instanceID: 0}
+  - infoMision: {instanceID: 0}
+  - estadoMision: {instanceID: 0}
+  - panelControl: {instanceID: 0}
+  - puertaBunker: {instanceID: 0}
+  - cargaBunker: {instanceID: 0}
+  - puerta1: {instanceID: 0}
+  - puerta2: {instanceID: 0}
+  - puerta3: {instanceID: 0}
+  - puerta4: {instanceID: 0}
+  - puerta5: {instanceID: 0}
+  - puerta6: {instanceID: 0}
+  - Zona1Bunker: {fileID: 1859980038505921663, guid: 21c70ed8bab09c34aa6707534b5da80a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
